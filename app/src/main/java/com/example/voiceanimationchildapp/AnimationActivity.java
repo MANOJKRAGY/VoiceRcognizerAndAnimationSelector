@@ -9,6 +9,7 @@ import com.airbnb.lottie.LottieAnimationView;
 
 public class AnimationActivity extends AppCompatActivity {
     LottieAnimationView lottieAnimationView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
